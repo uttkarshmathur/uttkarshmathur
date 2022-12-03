@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uttkarshmathur
 - 👀 I’m interested in frontend devlopment (Reactjs)
-- 🌱 I’m currently learning (ui kit)
+- 🌱 I’m currently learning (Reactjs)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
       email - @uttkarsh9675475331@gmail.com
